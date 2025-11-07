@@ -321,9 +321,11 @@ docker exec -it eep520 /bin/bash
 Your terminal prompt will change. You are now "inside" the Docker container and are in the /workspace directory (which is the same as your project directory). You can check by typing ls. 
 
 Step 3: Do Your Work
+
 Inside the container, you can now compile and run your code just as you would on a standard Linux machine.
 
 Step 4: Exit the Container
+
 When you are done, just type exit to leave the container.
 
 ```
@@ -332,6 +334,7 @@ exit
 Your terminal will return to normal. The container will keep running in the background.
 
 Step 5: Stopping the Container
+
 When you are completely finished working for the day, run this command to stop and remove the container. 
 
 ```
