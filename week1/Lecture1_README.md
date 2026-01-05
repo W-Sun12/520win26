@@ -117,7 +117,7 @@ Git setup for homework
 - Make the repo **private**
 - Invite Professor, and the TAs to your repo
 - Follow these steps to invite someone on your git repo        [here](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
-- Our git usernames are: **sosper30**, **Sarmagan**, and **trungleUW**.
+- Our git usernames are: **sosper30**, **Sarmagan**, and **W-Sun12**.
 
 Then do
 
