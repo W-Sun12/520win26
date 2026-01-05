@@ -10,8 +10,8 @@ Modern embedded systems programming starts with the hardware and extends all the
     - Office hour: By Appointment
 - **Teaching Assistant**:
     - Armagan Er armagan@uw.edu 
-    - Trung Le tle45@uw.edu 
-    - Office hours: [LINK](https://docs.google.com/spreadsheets/d/1rZKNwzfEChZ2OtAtMxDMqFF4eOydgzL2VzhzKrwOlPc/edit?gid=0#gid=0)
+    - Winston Sun wsun12@uw.edu
+    - Office hours: [LINK](https://docs.google.com/spreadsheets/d/1cehOWhrYmrA9g3hXAY4MVukvFq-FHNev5m2GTJHd49Y/edit?gid=0#gid=0)
 
 Today
 ---
